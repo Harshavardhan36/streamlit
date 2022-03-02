@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np  
 import streamlit as st
 from sklearn.datasets import load_iris   #load the dataset
 from sklearn.neighbors import KNeighborsClassifier  #import the knn alg
